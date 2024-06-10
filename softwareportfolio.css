@@ -151,7 +151,8 @@ li.contact:hover{
 #img{
 	border: 400px solid #BA9780;
 	background-color: white;
-    z-index: 0;
+        z-index: 0;
+	position: relative;
 }
 
 footer{
